@@ -1,0 +1,1 @@
+{"latitude":25.125,"longitude":55.125,"generationtime_ms":0.14102458953857422,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":6,"current_weather":{"temperature":33.2,"windspeed":8.6,"winddirection":358,"weathercode":1,"is_day":0,"time":"2023-09-16T17:00"}}
